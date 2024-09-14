@@ -8,6 +8,7 @@ Ray-casting sensation began with the release of a game, Wolfenstein 3D (iD Softw
 
 Installation
 $ git clone https://github.com/Boodenator/The_Maze_Project.git
+
 Usage
 Execute: type --->> python main.py
 Use up and down arrow keys to move forward and backward,
@@ -15,7 +16,8 @@ Use right and left arrow keys to turn the camera arround,
 press space to shoot the enemy infront of the player.
 
 Demo
-[![The Maze Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/QM02QK6feBo)
+[The Maze Demo]
+(https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/QM02QK6feBo)
 
 Author ✒️
 Abdelrahman Ahmed
