@@ -22,7 +22,8 @@ press space to shoot the enemy infront of the player.
 Demo
 
 [The Maze Demo]
-![Actual Video](https://youtu.be/QM02QK6feBo)
+[![Watch the video](https://img.youtube.com/vi/QM02QK6feBo/maxresdefault.jpg)](https://youtu.be/QM02QK6feBo)
+
 
 
 ![Actual-screenshot](./imgs/Screenshot.png)
