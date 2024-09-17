@@ -24,7 +24,7 @@ Demo
 [The Maze Demo]
 (https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/QM02QK6feBo)
 
-![Actual-screenshot](./imgs/screenshot.png)
+![Actual-screenshot](./imgs/Screenshot.png)
 
 Author ✒️
 
